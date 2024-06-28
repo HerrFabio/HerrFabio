@@ -1,6 +1,6 @@
-## Olá!! Eu sou o Fabio Araújo, desenvolvedor Front-end.  👋
+## Olá!! Eu sou o Fabio Araújo.  👋
 
-
+- ⌨ Desenvolvefor fullstack formado pela Kenzie Academy Brasil
 - 🔭 Atualmente estou em um projeto Front-end
 - 🌱 Estou estudando Python e Django
 - 📫 Meu e-mail de contato: fabioalbertoaraujo@gmail.com 
