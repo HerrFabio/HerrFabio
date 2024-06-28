@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Fabio Araújo 👋
+## Olá!! Eu sou o Fabio Araújo, desenvolvedor Front-end..  👋
 
 
 - 🔭 Atualmente estou em um projeto Front-end
