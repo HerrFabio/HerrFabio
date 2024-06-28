@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Fabio Araújo, desenvolvedor Front-end..  👋
+## Olá!! Eu sou o Fabio Araújo, desenvolvedor Front-end.  👋
 
 
 - 🔭 Atualmente estou em um projeto Front-end
@@ -20,4 +20,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrFabio&show_icons=true&theme=radical)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrFabio&show_icons=true&theme=radical)
+</div>
