@@ -4,9 +4,11 @@
 - 🔭 Atualmente estou em um projeto Front-end
 - 🌱 Estou estudando Python e Django
 - 📫 Meu e-mail de contato: fabioalbertoaraujo@gmail.com 
-- 🔗 Meu linkedin: https://www.linkedin.com/in/f%C3%A1bio-alberto-leite-ara%C3%BAjo-1743913b/
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Sou mestre de RPG a 16 anos.
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alberto-leite-araujo/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabioalbertoaraujo@gmail.com)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
